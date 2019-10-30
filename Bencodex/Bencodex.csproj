@@ -1,11 +1,11 @@
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <PackageId>Bencodex</PackageId>
-    <Title>Bencodex</Title>
+    <PackageId>BencodexTest</PackageId>
+    <Title>BencodexTest</Title>
     <Summary>Bencodex codec for .NET</Summary>
-    <Version>0.1.1-alpha</Version>
+    <VersionPrefix>0.1.1</VersionPrefix>
     <PackageProjectUrl>https://github.com/planetarium/bencodex.net</PackageProjectUrl>
-    <Authors>Hong Minhee</Authors>
+    <Authors>Moreal</Authors>
     <Company>Planetarium</Company>
     <PackageLicenseExpression>LGPL-2.1-or-later</PackageLicenseExpression>
     <PackageReleaseNotes>https://github.com/planetarium/bencodex.net/blob/master/CHANGES.md</PackageReleaseNotes>
